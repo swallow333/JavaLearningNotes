@@ -8,7 +8,7 @@ change file, and state become **modified**
 ## Step 3
 terminal type:
 `git add --all  //all change in the current directory`
-state become **stored**
+state become **staged**
 
 ## Step 4
 terminal type:
@@ -18,4 +18,4 @@ state become **committed**
 ## Step 5
 terminal type:
 `git push -u origin main //"mian" is local branch name`
-state becom **push**
+state become **pushed**
